@@ -2812,7 +2812,7 @@ label.error {
   height: 45px;
   line-height: 45px;
   position: relative;
-  background: #111111;
+  background: url(../img/bg_panel1.png) #0F0;
   margin-bottom: 1.875em; }
   .top-bar ul {
     margin-bottom: 0;
@@ -3001,7 +3001,7 @@ label.error {
 
 @media only screen and (min-width: 58.75em) {
   .top-bar {
-    background: #111111;
+    /*background: #111111;*/
     *zoom: 1;
     overflow: visible; }
     .top-bar:before, .top-bar:after {
